@@ -1,0 +1,24 @@
+{
+"products":[
+ {
+      "id": 1,
+      "name": 'Laptop',
+      "price": 2500,
+      "categoryId": 1,
+      "description": 'Asus ZenBook',
+      "imageUrl":
+        'https://as1.ftcdn.net/v2/jpg/02/66/33/90/1000_F_266339089_4gB5GxUs0OKsPmWJeIu0bW92WdF0abhV.jpg',
+    },
+  {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 1,
+      "description": "A4 Tech",
+      "imageUrl":
+        'https://as1.ftcdn.net/v2/jpg/02/66/33/90/1000_F_266339089_4gB5GxUs0OKsPmWJeIu0bW92WdF0abhV.jpg',
+    }],
+"categories":[
+{"id":1,"name":"Bilgisiyar"},
+{"id":2,"name":"Elektronik"}]
+}
